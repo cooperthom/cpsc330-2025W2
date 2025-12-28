@@ -18,7 +18,7 @@ project:
         - file: syllabus.md
         - file: docs/README.md
         - file: learning-objectives.md
-    - title: Lectures
+    - title: Part 1 - Fundamentals
       children:
         - file: lectures/notes/01_intro.ipynb
         - file: lectures/notes/02_terminology-decision-trees.ipynb
@@ -31,12 +31,16 @@ project:
         - file: lectures/notes/09_classification-metrics.ipynb
         - file: lectures/notes/10_regression-metrics.ipynb
         - file: lectures/notes/11_ensembles.ipynb
+    - title: Part 2 - 
+      children:
         - file: lectures/notes/12_feat-importances.ipynb
         - file: lectures/notes/13_feature-engineering-selection.ipynb
         - file: lectures/notes/14_K-Means.ipynb
         - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
         - file: lectures/notes/16_recommender-systems.ipynb
         - file: lectures/notes/17_natural-language-processing.ipynb
+    - title: Part 3 - 
+      children:
         - file: lectures/notes/18_intro_to_computer-vision.ipynb
         - file: lectures/notes/19_time-series.ipynb
         - file: lectures/notes/20_survival-analysis.ipynb
