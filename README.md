@@ -14,7 +14,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 |-----------|-----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------|
 | 201       | [Giulia Toti](https://www.gtoti.com/) | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)     | Tue & Thu, 9:30–10:50      | [MCML 360](https://learningspaces.ubc.ca/classrooms/mcml-360/)  |
 | 202      | [Firas Moosvi](https://firas.moosvi.com) | [Ed Discussion](https://edstem.org/us/courses/89791)         | Tue & Thu, 15:30–16:50      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 203       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 17:00–18:20      |  TBA ~IRC 4~ |
+| 203       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 17:00–18:20      |  [SWNG 222](https://learningspaces.ubc.ca/classrooms/SWNG-222/) |
 | 204       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 11:00–12:20      |  [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)   |
 
 

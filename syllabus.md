@@ -22,7 +22,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 |--------------|---------|---------------|----------|
 | CPSC 330 201 | Tue/Thu | 9:30 - 10:50  | MCML 360 |
 | CPSC 330 202 | Tue/Thu | 15:30 - 16:50 | DMP 310  |
-| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | TBA ~IRC 4~ |
+| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | SWNG 222 |
 | CPSC 330 204 | Tue/Thu | 11:00 - 12:20 | DMP 310  |
 
 **Tutorials**:
