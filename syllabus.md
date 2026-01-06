@@ -22,24 +22,27 @@ Application of machine learning tools, with an emphasis on solving practical pro
 |--------------|---------|---------------|----------|
 | CPSC 330 201 | Tue/Thu | 9:30 - 10:50  | MCML 360 |
 | CPSC 330 202 | Tue/Thu | 15:30 - 16:50 | DMP 310  |
-| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | IRC 4    |
-| CPSC 330 203 | Tue/Thu | 11:00 - 12:20 | DMP 310  |
+| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | SWNG 222 |
+| CPSC 330 204 | Tue/Thu | 11:00 - 12:20 | DMP 310  |
 
 **Tutorials**:
 
 | Section      | Day | Time          | Location  |
 |--------------|-----|---------------|-----------|
-| CPSC 330 T1A | Fri | 09:00 - 10:00 | MCLD 3008 |
-| CPSC 330 T1B | Fri | 11:00 - 12:00 | MCML 158  |
-| CPSC 330 T1C | Fri | 14:00 - 15:00 | FSC 1003  |
-| CPSC 330 T1D | Fri | 15:00 - 16:00 | FSC 1003  |
-| CPSC 330 T1E | Thu | 17:00 - 18:00 | FSC 1611  |
-| CPSC 330 T1F | Thu | 13:00 - 14:00 | CEME 1215 |
-| CPSC 330 T1G | Thu | 14:00 - 15:00 | FORW 317  |
-| CPSC 330 T1H | Thu | 10:00 - 11:00 | CEME 1215 |
-| CPSC 330 T1J | Fri | 10:00 - 11:00 | MCLD 3008 |
-| CPSC 330 T1K | Fri | 11:00 - 12:00 | MCLD 3008 |
-| CPSC 330 T1L | Thu | 09:00 - 10:00 | CEME 1215 |
+| CPSC 330 T2A | Fri | 09:00 - 10:00 | MCLD 3014 |
+| CPSC 330 T2B | Fri | 10:00 - 11:00 | MCML 158  |
+| CPSC 330 T2C | Fri | 12:00 - 13:00 | SWNG 405  |
+| CPSC 330 T2D | Fri | 15:00 - 16:00 | MCLD 3014 |
+| CPSC 330 T2E | Fri | 14:00 - 15:00 | MCLD 3008 |
+| CPSC 330 T2F | Fri | 14:00 - 15:00 | CEME 1215 |
+| CPSC 330 T2G | Thu | 17:00 - 18:00 | CEME 1215 |
+| CPSC 330 T2H | Fri | 11:00 - 12:00 | FSC 1611  |
+| CPSC 330 T2I | Thu | 13:00 - 14:00 | CEME 1215 |
+| CPSC 330 T2J | Thu | 14:00 - 15:00 | MCLD 3008 |
+| CPSC 330 T2K | Thu | 15:00 - 16:00 | SWNG 107  |
+| CPSC 330 T2L | Thu | 09:00 - 10:00 | MCLD 3008 |
+| CPSC 330 T2M | Thu | 10:00 - 11:00 | MCLD 3008 |
+| CPSC 330 T2N | Fri | 13:00 - 14:00 | MCLD 158  |
 
 **Tutorials**
 
@@ -47,11 +50,11 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 ## Teaching Team
 
-**Instructors**: 
+**Instructors**:
 
 - [Giulia Toti](https://www.gtoti.com/), OH: Thursdays, 11:15 am - 12:30 pm @ ICCS 231
-- Mehrdad Oveisi, OH:
 - Firas Moosvi, OH: 
+- Mehrdad Oveisi, OH: 
 
 ### Course coordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
@@ -81,7 +84,9 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Waitlists**:
 
-The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. **The instructors have no control over the situation and cannot help you bypass the waiting list.**
+CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2025W2, we are expecting that all students who are registered on any open waitlists by 3 PM on January 9th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on January 9th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
+
+**The instructors have no control over the wailtist order and cannot help you bypass the waiting list.**
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
@@ -103,7 +108,7 @@ The grading scheme for the course is as follows:
 | Final Exam*            | 30%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
 | Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
 
-All students must satisfy ALL the following conditions to pass the course:
+**All students must satisfy ALL the following conditions to pass the course:**
 - Pass the Assignments component with a grade of at least 40%,
 - Pass the Midterms and Final Exam together with a weighted average grade of at least 50%
 - Pass the Final Exam with a grade of at least 40%,
@@ -189,7 +194,7 @@ For more information, [please see the CBTF page](https://cbtf.ubc.ca/students/ac
 
 ### Final exam
 
-The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course.**
+The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course (along with other requirements listed above).**
 
 ## Academic concessions
 

@@ -168,3 +168,10 @@ lectures/notes/yolov8n.pt
 
 # MyST build outputs
 _build
+
+#Misc
+.vscode/
+*.DS_Store
+*.ipynb_checkpoints
+*cache*
+__pycache__

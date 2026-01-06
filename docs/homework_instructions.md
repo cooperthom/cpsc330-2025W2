@@ -5,10 +5,10 @@ Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-stud
 
 ## Accessing homework assignments
 
-Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2025W1?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
+Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2025W2?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
 You can also find the list of released (public) repositories [here](https://github.com/orgs/ubc-cpsc330/repositories).
 
-Once the repository is ready, we'll make an announcement on Piazza.
+Once the repository is ready, we'll make an announcement on Ed Discussion.
 Your homework assignment will generally consist of a Jupyter notebook along with necessary code and data or links to download the data.
 You will have to setup your computer so that you can work on these assignments locally.
 See this document for [setup instructions](setup.md).
@@ -99,14 +99,14 @@ By default late submissions will not be accepted.
 The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. 
 This is not ideal, but we believe the overall policy is best for the class as a whole.
 
-_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2025W1/blob/main/syllabus.md#academic-concessions) for more info.
+_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2025W2/blob/main/syllabus.md#academic-concessions) for more info.
 
 ## Updates to assignments
 
-If there are errors or other changes that need to be made to an assignment, we will announce them in a pinned Piazza post.
+If there are errors or other changes that need to be made to an assignment, we will announce them in a pinned Ed post.
 
 ## Citing sources
 
-If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. Please carefully read this policy on [use of Generative AI in the course](https://ubc-cs.github.io/cpsc330-2025W1/syllabus.html#use-of-generative-ai-in-the-course). 
+If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. Please carefully read this policy on [use of Generative AI in the course](https://ubc-cs.github.io/cpsc330-2025W2/syllabus#use-of-generative-ai-in-the-course).
 
 **You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation and/or annotation**.

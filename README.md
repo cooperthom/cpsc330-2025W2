@@ -1,11 +1,11 @@
-[![deploy-book](https://github.com/UBC-CS/cpsc330-2025W1/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/UBC-CS/cpsc330-2025W1/actions/workflows/deploy.yml)
+[![deploy-book](https://github.com/UBC-CS/cpsc330-2025W2/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/UBC-CS/cpsc330-2025W2/actions/workflows/deploy.yml)
 
 # UBC CPSC 330: Applied Machine Learning (2025W2)
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Jan-Apr 2026).
 
 ## Syllabus
-The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by Sep 19, 11:59 pm.
+The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by January 12, 11:59 pm.
 
 ## The teaching team  
 ### Instructors
@@ -14,7 +14,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 |-----------|-----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------|
 | 201       | [Giulia Toti](https://www.gtoti.com/) | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)     | Tue & Thu, 9:30–10:50      | [MCML 360](https://learningspaces.ubc.ca/classrooms/mcml-360/)  |
 | 202      | [Firas Moosvi](https://firas.moosvi.com) | [Ed Discussion](https://edstem.org/us/courses/89791)         | Tue & Thu, 15:30–16:50      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 203       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 17:00–18:20      |   [IRC 4](https://learningspaces.ubc.ca/classrooms/irc-4/)      |
+| 203       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 17:00–18:20      |  [SWNG 222](https://learningspaces.ubc.ca/classrooms/SWNG-222/) |
 | 204       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 11:00–12:20      |  [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)   |
 
 
@@ -69,17 +69,17 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 
 | Assessment     | Due date              | Where to find?                                                                     | Where to submit?                                      |
 |----------------|-----------------------|------------------------------------------------------------------------------------|-------------------------------------------------------|
-| hw1            | Jan 12 , 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw1&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
-| hw2            | Jan 19, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw2&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
-| Syllabus quiz  | Jan 23, 11:59 pm      | PrairieLearn (access through [Canvas tab](https://canvas.ubc.ca/courses/178047)) | (access through [Canvas tab](https://canvas.ubc.ca/courses/178047))  |
-| hw3            | Feb 02, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw3&template_owner=ubc-cpsc330)  | [Gradescope](https://www.gradescope.ca/courses/34465) |
-| hw4            | Feb 09, 11:59 pm      |  [GitHub repo](https://github.com/new?template_name=hw4&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/234465) |
+| Syllabus quiz  | Jan 12, 11:59 pm      | PrairieLearn (access through [Canvas tab](https://canvas.ubc.ca/courses/178047)) | (access through [Canvas tab](https://canvas.ubc.ca/courses/178047))  |
+| hw1            | Jan 12 , 11:59 pm     | GitHub repo[](https://github.com/new?template_name=hw1&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw2            | Jan 19, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw2&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw3            | Feb 02, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw3&template_owner=ubc-cpsc330)  | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw4            | Feb 09, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw4&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/234465) |
 | **Midterm 1**  | Feb 11-12-13          | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                        |
-| hw5            | Mar 02, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw5&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
-| hw6            | Mar 09, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw6&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw5            | Mar 02, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw5&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw6            | Mar 09, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw6&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
 | **Midterm 2**  | Mar 16-17-18          | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                        |
-| hw7            | Mar 23, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
-| hw8            | Mar 30, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw7            | Mar 23, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
+| hw8            | Mar 30, 11:59 pm      | GitHub repo[](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
 | hw9            | Apr 10, 11:59 pm  **No late submissions**    | [GitHub repo](https://github.com/new?template_name=hw9&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/34465) |
 | **Final exam** | TBA                   | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                              |
 
@@ -89,7 +89,7 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 
 This course will be run in a semi flipped classroom format. There will be pre-watch videos for many lectures, at least in the first half of the course. All the videos are available on [YouTube](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) and are posted in the schedule below. Try to watch the assigned videos before the corresponding lecture. During the lecture, we'll summarize the important points from the videos and focus on demos, iClickers, and Q&A. 
 
-We'll be developing lecture notes directly in this repository. So if you check them before the lecture, they might be in a draft form. Once they are finalized, they will be posted in the [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2025W2/README.html). 
+We'll be developing lecture notes directly in this repository. So if you check them before the lecture, they might be in a draft form. Once they are finalized, they will be posted in the [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2025W2).
 
 | Date   | Topic |  Assigned videos | vs. CPSC 340 |
 |--------|-----------|-------------------------|------------------|
