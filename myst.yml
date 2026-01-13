@@ -53,8 +53,8 @@ project:
       children:
         - file: lectures/notes/01_intro.ipynb
         - file: lectures/notes/02_terminology-decision-trees.ipynb
-    #     - file: lectures/notes/03_ml-fundamentals.ipynb
-    #     - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
+        - file: lectures/notes/03_ml-fundamentals.ipynb
+        - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
     #     - file: lectures/notes/05_preprocessing-pipelines.ipynb
     #     - file: lectures/notes/06_column-transformer-text-feats.ipynb
     #     - file: lectures/notes/07_linear-models.ipynb
