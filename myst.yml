@@ -64,8 +64,8 @@ project:
     - title: Part 2 - 
       children:
         - file: lectures/notes/11_ensembles.ipynb
-    #     - file: lectures/notes/12_feat-importances.ipynb
-    #     - file: lectures/notes/13_feature-engineering-selection.ipynb
+        - file: lectures/notes/12_feat-importances.ipynb
+        - file: lectures/notes/13_feature-engineering-selection.ipynb
     #     - file: lectures/notes/14_K-Means.ipynb
     #     - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
     #     - file: lectures/notes/16_recommender-systems.ipynb
@@ -137,8 +137,8 @@ project:
           title: Lecture 10
         - url: https://firasm.github.io/cpsc330-slides/slides-11.html
           title: Lecture 11
-        # - url: https://firasm.github.io/cpsc330-slides/slides-12.html
-        #   title: Lecture 12
+        - url: https://firasm.github.io/cpsc330-slides/slides-12.html
+          title: Lecture 12
         # - url: https://firasm.github.io/cpsc330-slides/slides-13.html
         #   title: Lecture 13
         # - url: https://firasm.github.io/cpsc330-slides/slides-14.html
