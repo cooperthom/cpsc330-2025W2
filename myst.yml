@@ -77,9 +77,9 @@ project:
         - file: lectures/notes/20_time-series.ipynb
         - file: lectures/notes/21_survival-analysis.ipynb
         - file: lectures/notes/22_communication.ipynb
-        - file: lectures/notes/23_AIcsCoreFairness.pdf
-    #     - file: lectures/notes/24_deployment-conclusion.ipynb
-    #     - file: lectures/notes/final-exam-review-guiding-question.ipynb
+        - file: lectures/notes/23_ethics.md
+        - file: lectures/notes/24_deployment-conclusion.ipynb
+        - file: lectures/notes/final-exam-review-guiding-question.ipynb
     # - title: Section slides
     #   children:
     #     # - file: lectures/101&103-Giulia-lectures/README
@@ -160,8 +160,10 @@ project:
           title: Lecture 21
         - url: https://firasm.github.io/cpsc330-slides/slides-22.html
           title: Lecture 22
-        - file: lectures/notes/23_AIcsCoreFairness.pdf
+        - file: lectures/notes/23_ethics.md
           title: Lecture 23
+        - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+          title: Lecture 24
     - title: Appendix
       children:
         - file: lectures/notes/AppendixA.ipynb
